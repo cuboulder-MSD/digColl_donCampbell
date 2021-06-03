@@ -4,9 +4,6 @@ Don Campbell (1946-2012) was a student of Nadia Boulanger and made important con
 
 Permanent address to digital collection: [https://doi.org/10.25810/b23n-a002](https://doi.org/10.25810/b23n-a002).<br /> 
 Please use the same link when sharing or citing the collection.
-
-## DOI
-https://doi.org/10.25810/b23n-a002
 ## Metadata
 ### Collection Name
 ### Title
