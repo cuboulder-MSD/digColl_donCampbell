@@ -1,6 +1,10 @@
 # Don Campbell Papers
 ## Description
-Don Campbell (1946-2012) was a student of Nadia Boulanger and made important contributions to the study of the French composer, teacher, and music critic. This collection contains Campbell's notes for the first English-language biography on Boulanger, who was arguably the most influential music pedagogue of the twentieth century. There are few extant documents from the later part of Boulanger's life, and Campbell's collection is unique in its ability for us to witness how Boulanger mediated the creation of these biographical efforts. The archival collection includes his correspondence with Boulanger in the last three years of her life; notes from interviews with Boulanger; correspondence with Boulanger's secretary and life-long friend, Annette Dieudonné; and numerous testimonials in the form of letters and other documentary evidence sent to Campbell by Boulanger alumnae. 
+Don Campbell (1946-2012) was a student of Nadia Boulanger and made important contributions to the study of the French composer, teacher, and music critic. This collection contains Campbell's notes for the first English-language biography on Boulanger, who was arguably the most influential music pedagogue of the twentieth century. There are few extant documents from the later part of Boulanger's life, and Campbell's collection is unique in its ability for us to witness how Boulanger mediated the creation of these biographical efforts. The archival collection includes his correspondence with Boulanger in the last three years of her life; notes from interviews with Boulanger; correspondence with Boulanger's secretary and life-long friend, Annette Dieudonné; and numerous testimonials in the form of letters and other documentary evidence sent to Campbell by Boulanger alumnae.
+
+Permanent address to digital collection: [https://doi.org/10.25810/b23n-a002](https://doi.org/10.25810/b23n-a002).<br /> 
+Please use the same link when sharing or citing the collection.
+
 ## DOI
 https://doi.org/10.25810/b23n-a002
 ## Metadata
@@ -85,5 +89,7 @@ https://doi.org/10.25810/b23n-a002
 ### Scanning technician
 ### Extent List
 ### Page Number
+## Resources
+For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [Don Campbell papers](https://archives.colorado.edu/repositories/3/resources/1804).
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
